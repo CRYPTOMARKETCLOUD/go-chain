@@ -1,4 +1,4 @@
-## Go Ethereum
+## Go Chain
 
 Official golang implementation of the Ethereum protocol.
 
