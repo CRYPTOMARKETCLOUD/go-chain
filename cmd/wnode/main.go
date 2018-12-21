@@ -591,7 +591,6 @@ func messageLoop() {
 	if sf == nil {
 		utils.Fatalf("symmetric filter is not installed")
 	}
-
 	af := shh.GetFilter(asymFilterID)
 	if af == nil {
 		utils.Fatalf("asymmetric filter is not installed")
